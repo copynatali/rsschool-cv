@@ -17,6 +17,7 @@
 **Database:** MySQL, PostgreSQL, SQLite  
 **Bugtracking system:** Jira, Mantis  
 **Tools:** Git, DevTools, Adobe Photoshop, Adobe Illustrator  
+**Metodology:** Agile, Scrum, Kanban  
 
 ## Work experience  
 
