@@ -1,4 +1,4 @@
-# Natali Yanukovich  
+# Natali Yanukovich  - Android Developer
 
 ## Contacts  
 
@@ -8,7 +8,7 @@
 **Phone:** +375298978987  
 
 ## Summary  
-> Hello World! 🙂 I love Kotlin and everything related to Android development. I always have a lot of ideas ... And in order to bring them to life, I strive to master the developer tools perfectly. It's my main goal. I wish you all good luck on this difficult and interesting way!  
+> Hello World! 🙂 I love Kotlin and everything related to Android development. I always have a lot of ideas... And in order to bring them to life, I strive to master the developer tools perfectly. It's my main goal. I wish you all good luck on this difficult and interesting way!  
 
 ## Skills  
 
@@ -36,13 +36,11 @@
 ## Education
 
 *2004-2009*  
-Polotsk State University (Belarus):  
+**Polotsk State University (Belarus):**  
 Information Technologies  
-___
 
 ## Languages  
-*Russian, Belarusian* - Native  
-*Ukranian* - Pre-entermediate  
-*Polish* - Elementary  
-***English*** - Upper-Entermediate  
-___
+*🇷🇺Russian, 🇧🇾Belarusian* - Native  
+*🇺🇦Ukranian* - Pre-entermediate  
+*🇵🇱Polish* - Elementary  
+***🇺🇸English*** - Upper-Entermediate  
