@@ -40,7 +40,7 @@
 Information Technologies  
 
 ## Languages  
-🇷🇺 Russian, 🇧🇾 Belarusian - Native  
-🇺🇦 Ukranian - Pre-entermediate  
-🇵🇱 Polish - Elementary  
-🇺🇸 English - Upper-Entermediate  
+*Russian, Belarusian* - Native  
+*Ukranian* - Pre-entermediate  
+*Polish* - Elementary  
+***English*** - Upper-Entermediate  
